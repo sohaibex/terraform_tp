@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"vpc","Source":"./modules/vpc","Dir":"modules/vpc"},{"Key":"bastien","Source":"./modules/instance","Dir":"modules/instance"},{"Key":"disk","Source":"./modules/disk","Dir":"modules/disk"},{"Key":"vpc_name","Source":"./modules/vpc","Dir":"modules/vpc"},{"Key":"nginx-app","Source":"./modules/instance","Dir":"modules/instance"},{"Key":"","Source":"","Dir":"."}]}
